@@ -7,7 +7,7 @@ Hello Dear,
         ✔ MySQL.
         ✔ Object Oriented Software Engineering.
         ✔ Web Design and Client Side Scripting.
-        ✔ SpringBoot.    
+        ✔ SpringBoot.   
         
 📚 I'm currently learning how to:
         ✔ How to Develop in PHP.
